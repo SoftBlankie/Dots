@@ -2,6 +2,11 @@
 # Dots
 C++ simulation of AI learning through natural selection
 
+![keyword](https://github.com/SoftBlankie/Dots/blob/master/screen_shot_1.png)
+![keyword](https://github.com/SoftBlankie/Dots/blob/master/screen_shot_2.png)
+![keyword](https://github.com/SoftBlankie/Dots/blob/master/screen_shot_3.png)
+
+
 ### Goal
 
 The goal of this program is to simulate the process for how an AI learns through natural selection. The creation of this program allows me to understand the SFML library in C++ used for graphics and games. Furthermore, allows me to understand the underlying concept for how AI learning works for preparation in understanding artificial intelligence concepts as well as its applications.
